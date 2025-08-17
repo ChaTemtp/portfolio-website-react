@@ -1,7 +1,7 @@
 // src/components/Projects/Projects.jsx
 import './Projects.css';
 import ProjectCard from './ProjectCard';
-import Store from '../../assets/images/Store.png';     // ✅ เปลี่ยนชื่อให้ตรง
+import Store from '../../assets/images/Store.png';
 import Port from '../../assets/images/Port.png';
 import Weather from '../../assets/images/Weather.png';
 
